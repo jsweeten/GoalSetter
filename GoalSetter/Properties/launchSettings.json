@@ -1,7 +1,7 @@
 {
   "profiles": {
     "GoalSetter": {
-<<<<<<< HEAD
+
       "commandName": "Project"
     },
     "Docker": {
@@ -9,15 +9,11 @@
       "launchBrowser": true,
       "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
       "publishAllPorts": true,
-      "useSSL": true
-=======
-      "commandName": "Project",
-      "launchBrowser": true,
+      "useSSL": true,
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
       "applicationUrl": "https://localhost:63261;http://localhost:63262"
->>>>>>> main
     }
   }
 }
